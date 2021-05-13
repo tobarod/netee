@@ -7,7 +7,7 @@
 Type VPN : L2TP over IPSec
 Server address : XXX
 Account Name :XXX
-password : XXX
+Password : XXX
 Shared Secret: XXXX
 ```
 
@@ -29,5 +29,5 @@ Shared Secret: XXXX
 
     -   Send all traffic over VPN connection: Sends all network traffic over the VPN connection, regardless of the network service you use, such as Wi-Fi or Ethernet.
 
-5.  step was done, Click "Connect"
+5.  Step was done, Click "Connect"
 ```

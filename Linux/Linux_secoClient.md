@@ -4,7 +4,7 @@
 
 1.  The network administrator will provide you with a file with the suffix ini
    
-2.  and you will also need to download the [client](https://gitee.com/nethowto/nethowto/blob/master/clintFile/secoclient-linux-64-7.0.2.26.run)
+2.  And you will also need to download the [client](https://gitee.com/nethowto/nethowto/blob/master/clintFile/secoclient-linux-64-7.0.2.26.run)
 
 ## Install the Secoclient
 

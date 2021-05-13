@@ -5,7 +5,7 @@
 Type VPN : L2TP over IPSec
 Server address : 123.123.123.123 (Replace 123.123.123.123 in the configuration file with your server address)
 Account Name :XXX
-password : XXX
+Password : XXX
 Shared Secret: XXXX
 ```
 ```1：Open terminal```

@@ -6,7 +6,7 @@
 Type VPN : L2TP over IPSec
 Server address : XXX
 Account Name :XXX
-password : XXX
+Password : XXX
 Shared Secret: XXXX
 ```
 
