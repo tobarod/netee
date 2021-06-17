@@ -48,6 +48,8 @@ conn vpninterface0
     leftprotoport = 17/1701
     right = 123.123.123.123
     rightprotoport = 17/1701
+    ike=aes128-sha256-modp2048
+    esp=aes128-modp2048
 ```
 
 ```Setup PSK authentication in `/etc/ipsec.secrets`, replace content in quote (exclusive) with PSK above:```
