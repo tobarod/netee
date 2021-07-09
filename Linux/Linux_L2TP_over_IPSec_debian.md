@@ -24,10 +24,10 @@ libstrongswan-standard-plugins ppp procps strongswan strongswan-charon
 strongswan-libcharon strongswan-starter xl2tpd
 ```
 
-```Setup `IPSec` tunnel using `strongswan```
+```Setup `IPSec` tunnel using `strongswan` ```
 
 
-```Setup IPSec VPN tunnel in `/etc/ipsec.conf```
+```Setup IPSec VPN tunnel in `/etc/ipsec.conf` ```
 
 ```bash
 config setup
@@ -121,7 +121,7 @@ printf 'd vpninterface0\n' | sudo tee /run/xl2tpd/l2tp-control   # disconnect L2
 ```
 ```should disappear```
 
-```Script contributed by James to help you connect and disconnect to VPN```
+```Script contributed to help you connect and disconnect to VPN```
 
 ````You can source the following script and use the function inside to connect and disconnect the VPN tunnel.```
 ```bash
