@@ -46,3 +46,12 @@ Shared Secret: XXXX
 
 ![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/28.jpg)
 
+## error 1
+
+```bash
+无法建立计算机与VPN服务器之间的网络连接，因为远程服务器未响应。这可能是因为未将计算机与远程服务器之间的某种网络设备（如防火墙、NAT、路由器等）配置为允许VPN连接。请与管理员或者服务提供商联系以确定哪种设备可能产生此问题。
+
+The network connection between the computer and the VPN server could not be established because the remote server did not respond. This may be because some network equipment (such as firewall, NAT, router, etc.) between the computer and the remote server is not configured to allow VPN connections. Please contact your administrator or service provider to determine which device may cause this problem.
+```
+
+[Reference Repair Method](https://me.jinchuang.org/archives/381.html)
