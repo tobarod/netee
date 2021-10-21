@@ -21,28 +21,28 @@ root@root:/home/username/Downloads# bash secoclient-linux-64-7.0.2.26.run
 " Linux "
 Search the and click the icon of Secoclient
 ```
-![50](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/50.png)
+![50](https://github.com/tobarod/netee/blob/main/Img_folder/50.png)
 
 ## Import configuration file
 
-![33](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/33.png)
+![33](https://github.com/tobarod/netee/blob/main/Img_folder/33.png)
 
-![34](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/34.png)
+![34](https://github.com/tobarod/netee/blob/main/Img_folder/34.png)
 
-![35](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/35.png)
+![35](https://github.com/tobarod/netee/blob/main/Img_folder/35.png)
 
-![36](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/36.png)
+![36](https://github.com/tobarod/netee/blob/main/Img_folder/36.png)
 
-![37](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/37.png)
+![37](https://github.com/tobarod/netee/blob/main/Img_folder/37.png)
 
-![38](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/38.png)
+![38](https://github.com/tobarod/netee/blob/main/Img_folder/38.png)
 
 ## Exit Secoclient
 
 > Debian : Lower left corner of screen
 
-![52](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/52.png)
+![52](https://github.com/tobarod/netee/blob/main/Img_folder/52.png)
 
 > Ubuntu : Upper right corner of screen
 
-![51](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/51.png)
+![51](https://github.com/tobarod/netee/blob/main/Img_folder/51.png)

@@ -10,7 +10,7 @@ Shared Secret: XXXX
 ```
 ```1：Open terminal```
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/41.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/41.png)
 
 ```2：Enter the following command line by line in the terminal.```
 ```txt
@@ -26,12 +26,12 @@ Phase2 Algorithms: aes256-sha256
 ```
 ```4：Then follow the steps on the picture to set it step by step.```
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/42.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/42.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/43.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/43.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/44.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/44.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/45.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/45.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/46.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/46.png)

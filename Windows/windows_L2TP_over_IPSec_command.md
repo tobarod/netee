@@ -12,7 +12,7 @@ Shared Secret: XXXX
 
 ```step 1: open powershell of admin```
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/60.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/60.png)
 
 ```step 2: Modify your own script from the template```
 
@@ -22,13 +22,13 @@ Add-VpnConnection -Name "XXX-Customize by yourself" -ServerAddress "XXX-server a
 
 ```step 3: ```
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/61.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/61.png)
 
 > when you want send all traffic over VPN
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/10.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/10.png)
 
 ```step 4: Done and go connect```
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/62.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/62.png)
 

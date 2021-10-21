@@ -19,23 +19,23 @@ Double-click the icon of Secoclient’s .exe file to install, That is easy.
 
 **Check whether the driver created by secoclient is running normally. In abnormal cases, you will see a yellow exclamation point on the icon.**[fix it](https://gitee.com/nethowto/nethowto/blob/master/fix/fix_windows_driver_Digital_signature_not_trusted.en.md)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/64.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/64.png)
 
 
 ## step of use
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/32.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/32.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/33.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/33.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/34.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/34.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/35.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/35.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/36.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/36.png)
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/37.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/37.png)
 
 **The application forbids pasting the password, but allows you to drag the password into the password box**
 
-![Image text](https://gitee.com/nethowto/nethowto/raw/master/Img_folder/38.png)
+![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/38.png)
