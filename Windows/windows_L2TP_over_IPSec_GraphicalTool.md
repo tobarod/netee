@@ -55,3 +55,63 @@ The network connection between the computer and the VPN server could not be esta
 ```
 
 [Reference Repair Method](https://me.jinchuang.org/archives/381.html)
+
+## error 2
+
+```bash
+不能建立到远程计算机的连接。你可能需要更改此连接的网络设置。
+
+A connection to the remote computer could not be established. You may need to change the network settings for this connection.
+```
+
+**Repair Method**
+
+```bash
+此电脑—>右键管理—>设备管理器—>网络适配器—>删除WAN MIniport（ip)—>重启电脑解决。
+
+
+Right-click the Start button and go to Device Manager.
+Expand the Network adapters menu.
+Right-click 'WAN MIniport（ip)' and select Uninstall device.
+Then,restart computer
+```
+
+## error 3
+
+```bash
+不能建立到远程计算机的连接，因此用于此连接的端口已关闭。
+
+A connection to the remote computer could not be established, so the port used for this connection is closed.
+```
+
+**Repair Method**
+
+```bash
+最简单快速的方式是关闭windows防火墙，但是这不安全。
+推荐在高级设置中添加出站规则，允许 协议是TCP，端口是 1701和1723
+添加操作可以参考
+https://jingyan.baidu.com/article/fb48e8bee35d456e622e14b3.html
+
+
+Can Direct to turn off the Windows Firewall, but this is not secure.
+So, Make Sure TCP Port 1723 and 1702 are Allow.
+Opening Ports in Windows Firewall
+
+From the Start menu, click Control Panel, click System and Security, and then click Windows Firewall. Control Panel is not configured for 'Category' view, you only need to select Windows Firewall.
+
+Click Advanced Settings.
+Click Outbound Rules.
+Click New Rule in the Actions window.
+Click Rule Type of Port.
+Click Next.
+On the Protocol and Ports page click TCP.
+Select Specific Local Ports and type a value of 1701、1723.
+Click Next.
+On the Action page click Allow the connection.
+Click Next.
+On the Profile page click the appropriate options for your environment.
+Click Next.
+On the Name page enter a name ofReportServer (TCP on port 1701 and 1723)
+Click Finish.
+Done
+```
