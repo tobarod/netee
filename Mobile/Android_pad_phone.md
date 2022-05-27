@@ -1,5 +1,15 @@
 # Configuration L2TP over IPSec VPN by Settings
 
+```bash
+in Android 12 both IPsec Xauth and L2TP were removed completly.
+The only available authentication types of the android vpn built-in client are:
+IKEv2/IPsec MSCHAPv2
+IKEv2/IPSec PSK
+IKEv2/IPSec RSA
+
+so, if your device were Android version 12, don't add this VPN
+```
+
 ```Network administrator will provide you with information```
 
 ```txt
