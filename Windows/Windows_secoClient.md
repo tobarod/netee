@@ -17,7 +17,7 @@ Double-click the icon of Secoclient’s .exe file to install, That is easy.
 
 ## check the Secoclient app
 
-**Check whether the driver created by secoclient is running normally. In abnormal cases, you will see a yellow exclamation point on the icon.**[fix it](https://gitee.com/nethowto/nethowto/blob/master/fix/fix_windows_driver_Digital_signature_not_trusted.en.md)
+**Check whether the driver created by secoclient is running normally. In abnormal cases, you will see a yellow exclamation point on the icon.**[fix it](https://github.com/tobarod/netee/blob/main/fix/fix_windows_driver_Digital_signature_not_trusted.en.md)
 
 ![Image text](https://github.com/tobarod/netee/blob/main/Img_folder/64.png)
 
