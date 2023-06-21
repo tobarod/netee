@@ -14,13 +14,14 @@ Select the corresponding system version of UniVPN to download and double click t
 
 ### 2.Import configuration files
 
+Download and unzip the "VPN Profile" zip file. 
 vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
 
 Run UniVPN and click on "New Connection"
 
 ![image](https://github.com/tobarod/netee/assets/84069016/70c7efcb-bbaf-4318-acc9-4d15921f331b)
 
-Import the downloaded configuration file.
+Locate the unzipped folder of the "VPN profile". Import the downloaded configuration file.
 PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
 
 ![image](https://github.com/tobarod/netee/assets/84069016/48039472-d039-4796-bd84-b9ab546ac000)
