@@ -13,7 +13,7 @@ Select the corresponding system version of UniVPN to download and double click t
 
 ### 2.Import configuration files
 
-vpn profile download link：https://drive.weixin.qq.com/s?k=AOQATAe4AA0mJmH5qy
+vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
 
 Run UniVPN and click on "New Connection"
 ![image](https://github.com/tobarod/netee/assets/84069016/70c7efcb-bbaf-4318-acc9-4d15921f331b)
