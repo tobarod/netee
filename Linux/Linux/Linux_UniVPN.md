@@ -14,6 +14,8 @@ Select the corresponding system version of UniVPN to download and double click t
 
 打开“终端”登录到下载文件所在目录
 
+```bash
+cd /home/bot/下载```
 
 
 
