@@ -16,6 +16,6 @@
 1.  [MAC_OS operates as follows](https://github.com/tobarod/netee/blob/main/MAC/MacOS.md)
 
 ### Mobile devices
-1.  [UniVPN for android or IOS](https://github.com/tobarod/netee/blob/main/Mobile/UniVPN for android or IOS.md)
+1.  [UniVPN for android or IOS](https://github.com/tobarod/netee/blob/main/Mobile/UniVPN_for_android_or_IOS.md)
 2.  [Android](https://github.com/tobarod/netee/blob/main/Mobile/Android_pad_phone.md)
 3.  [IOS](https://github.com/tobarod/netee/blob/main/Mobile/IOS_pad_phone.md)
