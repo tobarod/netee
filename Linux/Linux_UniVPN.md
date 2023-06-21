@@ -8,7 +8,7 @@
 
 http://www.leagsoft.com/doc/article/103107.html
 
-Select the corresponding system version of UniVPN to download and double click to install it directly.
+Select the UniVPN program that corresponds to the system version you are currently using and download it. 
 
 ![image](https://github.com/tobarod/netee/assets/84069016/00d71b1f-105b-4827-96a6-79ea442632ba)
 
@@ -26,6 +26,7 @@ sudo ./univpn-linux-64-10781.13.0.0522.run
 ### 2.Import configuration files
 
 Download and unzip the "VPN Profile" zip file. 
+
 vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
 
 Run UniVPN and click on "New Connection"
@@ -33,6 +34,7 @@ Run UniVPN and click on "New Connection"
 ![image](https://github.com/tobarod/netee/assets/84069016/70c7efcb-bbaf-4318-acc9-4d15921f331b)
 
 Locate the unzipped folder of the "VPN profile". Import the downloaded configuration file.
+
 PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
 
 ![image](https://github.com/tobarod/netee/assets/84069016/48039472-d039-4796-bd84-b9ab546ac000)
