@@ -12,11 +12,16 @@ Select the corresponding system version of UniVPN to download and double click t
 
 ![image](https://github.com/tobarod/netee/assets/84069016/00d71b1f-105b-4827-96a6-79ea442632ba)
 
-打开“终端”登录到下载文件所在目录
+打开“终端”登录到下载文件所在目录，并解压文件运行安装
 
 ```bash
-cd /home/bot/下载```
+cd /home/bot/下载
+unzip univpn-linux-64-10781.13.0.0522.zip
+cd univpn-linux-64-10781.13.0.0522
+chmod +x univpn-linux-64-10781.13.0.0522.run
+sudo ./univpn-linux-64-10781.13.0.0522.run
 
+```
 
 
 
