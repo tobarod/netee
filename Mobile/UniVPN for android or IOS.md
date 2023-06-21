@@ -11,11 +11,13 @@ Search for UniConnect in the app store and install it
 
 Run the UniConnect App and select "Add Server Configuration".
 
-![image](https://github.com/tobarod/netee/assets/84069016/f6cbe36a-3d95-4e52-b4f2-dc5503e184d2)
+![image](https://github.com/tobarod/netee/assets/84069016/5bc41551-ccf3-4b36-abab-886ad2547fd9)
+
 
 Enter "Dorabot_SSL_VPN" in the connection name, and then select the remote gateway address
 
-![image](https://github.com/tobarod/netee/assets/84069016/6dfbe331-5318-4ec4-bbe3-3ee937537bfa)
+![image](https://github.com/tobarod/netee/assets/84069016/98655f88-9e5a-4eca-bba3-4e4231ac4b92)
+
 
 选择“添加
 
