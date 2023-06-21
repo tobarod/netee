@@ -10,7 +10,7 @@ http://www.leagsoft.com/doc/article/103107.html
 
 Select the corresponding system version of UniVPN to download and double click to install it directly.
 
-![image](https://github.com/tobarod/netee/assets/84069016/473acd1a-4b0c-4ee2-a7de-879195617869)
+![image](https://github.com/tobarod/netee/assets/84069016/00d71b1f-105b-4827-96a6-79ea442632ba)
 
 ### 2.Import configuration files
 
