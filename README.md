@@ -13,7 +13,7 @@ We currently provide manuals for configuring SSL VPN and L2TP VPN
 
 ## MAC
 1.  `Recommend`:[by the UniVPN application](https://github.com/tobarod/netee/blob/main/Mac/macOS_UniVPN.md)
-2.  [L2TP VPN for macOS operates as follows](https://github.com/tobarod/netee/blob/main/Mac/macOS.md)
+2.  [L2TP VPN for macOS operates as follows](https://github.com/tobarod/netee/blob/main/Mac/L2TP_VPN_for_macOS.md)
 
 ## Mobile devices
 1.  `Recommend`:[SSL VPN for Android or iOS](https://github.com/tobarod/netee/blob/main/Mobile/SSL_VPN_for_Android_or_iOS.md)
