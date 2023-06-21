@@ -8,7 +8,7 @@
 
 http://www.leagsoft.com/doc/article/103107.html
 
-Select the corresponding system version of UniVPN to download.
+Select the UniVPN program that corresponds to the system version you are currently using and download it. 
 
 ![image](https://github.com/tobarod/netee/assets/84069016/d46f456b-e8e2-4e5d-b13f-eb5054468bd1)
 
