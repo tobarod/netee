@@ -1,18 +1,19 @@
 # How to connect VPN
+We currently provide manuals for configuring SSL VPN and L2TP VPN
 
 ## Windows
 1.  `Recommend`:[by the UniVPN application](https://github.com/tobarod/netee/blob/main/Windows/Windows_UniVPN.md)
-2.  [by graphical tools](https://github.com/tobarod/netee/blob/main/Windows/windows_L2TP_over_IPSec_GraphicalTool.md)
-3.  [by the command line](https://github.com/tobarod/netee/blob/main/Windows/windows_L2TP_over_IPSec_command.md)
+2.  [L2TP VPN by graphical tools](https://github.com/tobarod/netee/blob/main/Windows/windows_L2TP_over_IPSec_GraphicalTool.md)
+3.  [L2TP VPN by the command line](https://github.com/tobarod/netee/blob/main/Windows/windows_L2TP_over_IPSec_command.md)
 
 ## Linux
 1.  `Recommend`:[by the UniVPN application](https://github.com/tobarod/netee/blob/main/Linux/Linux_UniVPN.md)
-2.  [Debian operates as follows](https://github.com/tobarod/netee/blob/main/Linux/Linux_L2TP_over_IPSec_debian.md)
-3.  [Ubuntu operates as follows](https://github.com/tobarod/netee/blob/main/Linux/Linux_L2TP_over_IPSec_ubuntu.md)
+2.  [L2TP VPN for Debian operates as follows](https://github.com/tobarod/netee/blob/main/Linux/Linux_L2TP_over_IPSec_debian.md)
+3.  [L2TP VPN for Ubuntu operates as follows](https://github.com/tobarod/netee/blob/main/Linux/Linux_L2TP_over_IPSec_ubuntu.md)
 
 ## MAC
 1.  `Recommend`:[by the UniVPN application](https://github.com/tobarod/netee/blob/main/Mac/macOS_UniVPN.md)
-2.  [macOS operates as follows](https://github.com/tobarod/netee/blob/main/Mac/macOS.md)
+2.  [L2TP VPN for macOS operates as follows](https://github.com/tobarod/netee/blob/main/Mac/macOS.md)
 
 ## Mobile devices
 1.  `Recommend`:[SSL VPN for Android or iOS](https://github.com/tobarod/netee/blob/main/Mobile/SSL_VPN_for_Android_or_iOS.md)
