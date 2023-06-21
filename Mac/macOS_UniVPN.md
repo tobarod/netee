@@ -12,6 +12,26 @@ Select the corresponding system version of UniVPN to download and double click t
 
 ![image](https://github.com/tobarod/netee/assets/84069016/d46f456b-e8e2-4e5d-b13f-eb5054468bd1)
 
+打开压缩文件
+
+![截屏2023-06-21 下午4 21 20](https://github.com/tobarod/netee/assets/84069016/9e3065fe-e7c5-4c1c-9343-3285e5022866)
+
+运行软件安装程序
+
+<img width="882" alt="截屏2023-06-21 下午4 31 40" src="https://github.com/tobarod/netee/assets/84069016/84ed2be7-afa1-44fb-9f4f-23dd6c56f1d3">
+
+因未通过 App store 下载会提示应用来自不明的开发者
+
+<img width="532" alt="截屏2023-06-21 下午4 37 02" src="https://github.com/tobarod/netee/assets/84069016/6320c5d5-5164-4d83-ba20-d8ab6a97b7d8">
+
+打开“系统与偏好设置”选择“安全性与隐私”，在“通用”选项中选择“仍要打开”
+
+![截屏2023-06-21 下午4 16 31](https://github.com/tobarod/netee/assets/84069016/9cdcc422-d3a9-41a2-b214-82ff17442269)
+
+选择“打开”，根据提示安装完成
+
+<img width="532" alt="截屏2023-06-21 下午4 17 03" src="https://github.com/tobarod/netee/assets/84069016/17877c01-3804-46dc-a81c-bc14f965fd24">
+
 ### 2.Import configuration files
 
 vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
