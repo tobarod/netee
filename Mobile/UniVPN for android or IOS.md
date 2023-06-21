@@ -19,10 +19,12 @@ Enter "Dorabot_SSL_VPN" in the connection name, and then select the remote gatew
 ![image](https://github.com/tobarod/netee/assets/84069016/98655f88-9e5a-4eca-bba3-4e4231ac4b92)
 
 
-选择“添加
+Select "Add”
 
-![image](https://github.com/tobarod/netee/assets/84069016/4d66bfa9-b2d6-4efe-89a7-d80161cd96e1)
+![image](https://github.com/tobarod/netee/assets/84069016/1c8871da-61e0-46ec-9670-558f67fccf9d)
 
-输入网关地址sz-portal.dorabot.com及端口10443
 
-![image](https://github.com/tobarod/netee/assets/84069016/b703a4cc-9656-4df2-ad2f-00835ce16fb0)
+Enter the gateway address: sz-portal.dorabot.com and port: 10443, then select "Save"
+
+![image](https://github.com/tobarod/netee/assets/84069016/85e61aad-d62f-4bd5-902a-644835524f8c)
+
