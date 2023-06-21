@@ -25,4 +25,13 @@ Enter the gateway address: sz-portal.dorabot.com and port: 10443, then select "S
 
 ![image](https://github.com/tobarod/netee/assets/84069016/457d1ff6-8bd6-4c86-baae-d7782b22ac14)
 
+Select Back button
 
+![image](https://github.com/tobarod/netee/assets/84069016/e5f245f2-f6d9-408e-ac26-8d3c8ec525d9)
+
+Check the configuration and select "Save"
+
+![image](https://github.com/tobarod/netee/assets/84069016/d5ea3053-0c14-4557-9a10-1811a95ad839)
+
+Click the button below to connect to SSLVPN
+![image](https://github.com/tobarod/netee/assets/84069016/90e91e52-24d4-4cd2-8cb3-7dbcb069c298)
