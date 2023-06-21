@@ -34,4 +34,5 @@ Check the configuration and select "Save"
 ![image](https://github.com/tobarod/netee/assets/84069016/d5ea3053-0c14-4557-9a10-1811a95ad839)
 
 Click the button below to connect to SSLVPN
+
 ![image](https://github.com/tobarod/netee/assets/84069016/90e91e52-24d4-4cd2-8cb3-7dbcb069c298)
