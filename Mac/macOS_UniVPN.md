@@ -8,15 +8,15 @@
 
 http://www.leagsoft.com/doc/article/103107.html
 
-Select the corresponding system version of UniVPN to download and double click to install it directly.
+Select the corresponding system version of UniVPN to download.
 
 ![image](https://github.com/tobarod/netee/assets/84069016/d46f456b-e8e2-4e5d-b13f-eb5054468bd1)
 
-Open the zip file
+Open the zip file of the installer you just downloaded.
 
 ![截屏2023-06-21 下午4 21 20](https://github.com/tobarod/netee/assets/84069016/9e3065fe-e7c5-4c1c-9343-3285e5022866)
 
-Run the software installer
+Run the software installer.
 
 <img width="882" alt="截屏2023-06-21 下午4 31 40" src="https://github.com/tobarod/netee/assets/84069016/84ed2be7-afa1-44fb-9f4f-23dd6c56f1d3">
 
@@ -35,6 +35,7 @@ Select "Open" and follow the prompts to complete the installation.
 ### 2.Import configuration files
 
 Download and unzip the "VPN Profile" zip file. 
+
 vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
 
 Run UniVPN and click on "New Connection"
@@ -42,6 +43,7 @@ Run UniVPN and click on "New Connection"
 ![image](https://github.com/tobarod/netee/assets/84069016/70c7efcb-bbaf-4318-acc9-4d15921f331b)
 
 Locate the unzipped folder of the "VPN profile". Import the downloaded configuration file.
+
 PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
 
 ![image](https://github.com/tobarod/netee/assets/84069016/48039472-d039-4796-bd84-b9ab546ac000)
