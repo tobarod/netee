@@ -1,4 +1,4 @@
-# MAC_OS Configuration L2TP over IPSec VPN
+# macOS Configuration L2TP over IPSec VPN
 [From Apple support](https://support.apple.com/guide/mac-help/change-options-l2tp-ipsec-vpn-connections-mac-mh11941/mac)
 
 ```The network administrator will provide you with information```
