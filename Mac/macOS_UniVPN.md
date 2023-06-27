@@ -12,7 +12,7 @@ Select the UniVPN program that corresponds to the system version you are current
 
 ![image](https://github.com/tobarod/netee/assets/84069016/d46f456b-e8e2-4e5d-b13f-eb5054468bd1)
 
-Open the zip file of the installer you just downloaded.
+Open the compressed files of the installer you just downloaded.
 
 ![截屏2023-06-21 下午4 21 20](https://github.com/tobarod/netee/assets/84069016/9e3065fe-e7c5-4c1c-9343-3285e5022866)
 
