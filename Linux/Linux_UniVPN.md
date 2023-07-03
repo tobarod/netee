@@ -4,7 +4,7 @@
 2. Easy to configure, just import the configuration file prepared by IT and you are ready to use
 
 ## Install the UniVPN
-### 1.Download and install UniVPN
+### 1.Download and install UniVPN, the application supports Debian and Ubuntu distributions.
 
 http://www.leagsoft.com/doc/article/103107.html
 
