@@ -38,3 +38,22 @@ Locate the unzipped folder of the "VPN profile". Import the downloaded configura
 PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
 
 ![image](https://github.com/tobarod/netee/assets/84069016/48039472-d039-4796-bd84-b9ab546ac000)
+
+## 登录VPN账户
+请使用统一身份认证的用户名和密码登录 VPN。 
+Please log in to the VPN using your Unified Identity Authentication username and password.
+
+统一身份认证的用户名由邮箱账户的用户名部分加上统一身份认证服务的域名部分组成。详情请见下文示例部分。
+The username for Unified Identity Authentication consists of the username portion of the email account plus the domain name portion of the Unified Identity Authentication service. Please see the example section below for more details. 
+
+示例 / Example
+如您的邮箱账户用户名是：xiaoming.zhang@dorabot.com
+则您的统一身份认证用户名为：xiaoming.zhang@dorabot.xyz
+
+If your email account username is: james.smith@dorabot.com
+Then your Unified Identity Authentication user name is: james.smith@dorabot.xyz
+
+第一次使用统一身份认证服务时，请在公司内网中访问统一身份认证账户管理页面，登录以激活帐户，并根据页面提示修改账户初始密码。
+统一身份认证账户管理页面：http://password.dorabot.xyz/RDWeb/Pages/zh-CN/password.aspx （需在公司内网访问，或连接内网 VPN 后访问）
+When using the Unified Identity Authentication service for the first time, please visit the Unified Identity Authentication account management page in the company intranet, log in to activate your account, and change the initial account password according to the page prompts.
+Unified Identity Authentication account management page: http://password.dorabot.xyz/RDWeb/Pages/zh-CN/password.aspx (must be accessed from the company intranet, or after connecting to the intranet VPN)
