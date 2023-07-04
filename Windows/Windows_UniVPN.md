@@ -40,7 +40,7 @@ PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used 
 
 则您的统一身份认证用户名为：xiaoming.zhang@dorabot.xyz
 
-第一次使用统一身份认证服务时，请在公司内网中访问统一身份认证账户管理页面，登录以激活帐户，并根据页面提示修改账户初始密码。
+第一次使用统一身份认证服务时，请在公司内网中访问统一身份认证账户管理页面，修改账户初始密码以激活帐户。
 
 统一身份认证账户管理页面：http://password.dorabot.xyz/RDWeb/Pages/zh-CN/password.aspx （需在公司内网访问，或连接内网 VPN 后访问）
 
@@ -56,6 +56,6 @@ If your email account username is: james.smith@dorabot.com
 
 Then your Unified Identity Authentication user name is: james.smith@dorabot.xyz
 
-When using the Unified Identity Authentication service for the first time, please visit the Unified Identity Authentication account management page in the company intranet, log in to activate your account, and change the initial account password according to the page prompts.
+When using the Unified Identity Authentication service for the first time, please visit the Unified Authentication account management page in the company intranet and change the initial account password to activate the account.
 
 Unified Identity Authentication account management page: http://password.dorabot.xyz/RDWeb/Pages/zh-CN/password.aspx (must be accessed from the company intranet, or after connecting to the intranet VPN)
