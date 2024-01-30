@@ -23,7 +23,7 @@ sudo ./univpn-linux-64-10781.13.0.0522.run
 
 下载并解压 "VPN 配置文件 "压缩文件。 / Download and unzip the "VPN Profile" zip file. 
 
-VPN 配置文件下载链接 / vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
+[VPN 配置文件下载链接 / vpn profile download link](https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip)
 
 运行 UniVPN 并点击 "新建连接"。 / Run UniVPN and click on "New Connection"
 
