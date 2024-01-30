@@ -10,22 +10,17 @@ https://download.leagsoft.com/download/UniVPN/win/univpn-win-full-10781.15.2.120
 
 ### 2. 导入配置文件 / Import configuration files
 
-下载并解压 "VPN 配置文件 "压缩文件。
-Download and unzip the "VPN Profile" zip file. 
+下载并解压 "VPN 配置文件 "压缩文件。 / Download and unzip the "VPN Profile" zip file. 
 
-VPN 配置文件下载链接：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
-vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
+VPN 配置文件下载链接 / vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
 
-运行 UniVPN 并点击 "新建连接"。
-Run UniVPN and click on "New Connection"
+运行 UniVPN 并点击 "新建连接"。 / Run UniVPN and click on "New Connection"
 
 ![image](https://github.com/tobarod/netee/assets/84069016/70c7efcb-bbaf-4318-acc9-4d15921f331b)
 
-找到解压后的 "VPN 配置文件 "文件夹。导入下载的配置文件。
-Locate the unzipped folder of the "VPN profile". Import the downloaded configuration file.
+找到解压后的 "VPN 配置文件 "文件夹。导入下载的配置文件。 / Locate the unzipped folder of the "VPN profile". Import the downloaded configuration file.
 
-提示: 下载的 VPN 配置文件包含 L2TP VPN 和 SSL VPN，可根据需要使用。
-PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
+提示: 下载的 VPN 配置文件包含 L2TP VPN 和 SSL VPN，可根据需要使用。 / PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
 
 ![image](https://github.com/tobarod/netee/assets/84069016/48039472-d039-4796-bd84-b9ab546ac000)
 
