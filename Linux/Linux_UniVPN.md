@@ -1,18 +1,14 @@
-# **Configure UniVPN to use L2TP_over_IPsec or SSL VPN**
-**Before you start the configuration**
-1. Need to download and install UniVPN software
-2. Easy to configure, just import the configuration file prepared by IT and you are ready to use
+# **配置 UniVPN 客户端 / Configure the UniVPN client**
+**开始配置前的说明 / Before you start the configuration**
+1. 需要下载并安装 UniVPN 软件 / Need to download and install UniVPN software
+2. 配置简单，只需导入 IT 部门准备的配置文件即可使用 / Easy to configure, just import the configuration file prepared by IT and you are ready to use
 
-## Install the UniVPN
-### 1.Download and install UniVPN, the application supports Debian and Ubuntu distributions.
+## 安装 UniVPN / Install the UniVPN
+### 1. 下载并安装 UniVPN / Download and install UniVPN
 
-http://www.leagsoft.com/doc/article/103107.html
+[UniVPN Linux 客户端下载链接 / UniVPN Linux client download link](https://download.leagsoft.com/download/UniVPN/linux/univpn-linux-64-10781.15.0.1208.zip)
 
-Select the UniVPN program that corresponds to the system version you are currently using and download it. 
-
-![image](https://github.com/tobarod/netee/assets/84069016/00d71b1f-105b-4827-96a6-79ea442632ba)
-
-Open "Terminal" and switch the directory path to the directory where the downloaded file is located, unzip the file and run the installation file.
+打开 "终端"，将目录路径切换到下载文件所在的目录，解压文件并运行安装文件。 / Open "Terminal" and switch the directory path to the directory where the downloaded file is located, unzip the file and run the installation file.
 
 ```bash
 cd /home/bot/Download
@@ -23,19 +19,19 @@ sudo ./univpn-linux-64-10781.13.0.0522.run
 
 ```
 
-### 2.Import configuration files
+### 2. 导入配置文件 / Import configuration files
 
-Download and unzip the "VPN Profile" zip file. 
+下载并解压 "VPN 配置文件 "压缩文件。 / Download and unzip the "VPN Profile" zip file. 
 
-vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
+VPN 配置文件下载链接 / vpn profile download link：https://github.com/tobarod/netee/raw/main/VPN_Profiles/VPN_Profiles.zip
 
-Run UniVPN and click on "New Connection"
+运行 UniVPN 并点击 "新建连接"。 / Run UniVPN and click on "New Connection"
 
 ![image](https://github.com/tobarod/netee/assets/84069016/70c7efcb-bbaf-4318-acc9-4d15921f331b)
 
-Locate the unzipped folder of the "VPN profile". Import the downloaded configuration file.
+找到解压后的 "VPN 配置文件 "文件夹。导入下载的配置文件。 / Locate the unzipped folder of the "VPN profile". Import the downloaded configuration file.
 
-PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
+提示: 下载的 VPN 配置文件包含 L2TP VPN 和 SSL VPN，可根据需要使用。 / PS: The downloaded VPN profile contains L2TP VPN and SSL VPN, which can be used on an as-needed basis.
 
 ![image](https://github.com/tobarod/netee/assets/84069016/48039472-d039-4796-bd84-b9ab546ac000)
 
