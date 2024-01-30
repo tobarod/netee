@@ -6,7 +6,7 @@
 ## 安装 UniVPN / Install the UniVPN
 ### 1. 下载并安装 UniVPN / Download and install UniVPN
 
-https://download.leagsoft.com/download/UniVPN/win/univpn-win-full-10781.15.2.1206-siged.zip
+[UniVPN Windows 客户端下载链接 / UniVPN Windows client download link](https://download.leagsoft.com/download/UniVPN/win/univpn-win-full-10781.15.2.1206-siged.zip)
 
 ### 2. 导入配置文件 / Import configuration files
 
